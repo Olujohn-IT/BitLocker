@@ -13,3 +13,5 @@ https://www.techtarget.com/searchenterprisedesktop/definition/BitLocker
 - Enabling BitLocker using software-based encryption (without TPM support)
   - Activate startup authentication with Local Group Policy Editor
   - Enable BitLocker
+
+[How to](https://superops.com/blog/bitlocker-encryption-windows-10)
